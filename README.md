@@ -7,6 +7,8 @@ display would turn green else red. I used a raspberry pi, a 1-wire
 device to store the combination of correct presses, a display to
 show countdown and final result, and a touch sensor for inputting
 combination.
+
+To run this would require plan9 running on the pi.
 ![](Images/Lock_1.gif)
 
 # Authors
