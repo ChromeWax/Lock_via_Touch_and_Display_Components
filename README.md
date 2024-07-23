@@ -6,7 +6,7 @@ the touch sensor was pressed the correct number of times, the
 display would turn green else red. I used a Raspberry Pi, a 1-wire
 device to store the combination of correct presses, a display to
 show the countdown and final result, and a touch sensor for inputting
-combinations.
+combinations. The correct combo is 5-3-2
 
 # Components
 * Adafruit 1.44" Color TFT LCD Display with MicroSD Card breakout (ST7735R)
