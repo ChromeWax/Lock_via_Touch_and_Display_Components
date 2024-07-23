@@ -25,5 +25,9 @@ To run this would require a Raspberry Pi with plan9.
 # Screenshots
 ![](Images/Lock_1.gif)
 
+# Built With
+* C
+* Plan9
+
 # Authors
 * Richard Vo
